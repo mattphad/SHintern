@@ -1,2 +1,2 @@
 # SHintern
-This is the readme for themy Spectrum Health internship repo
+This is the readme for my Spectrum Health internship repo
