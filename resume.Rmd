@@ -1,0 +1,67 @@
+---
+title: "Matthew Phad"
+subtitle: "phadm@mail.gvsu.edu |  815.545.9274 | 309 Hampton Ave SE, Grand Rapids, MI 49506 "
+output: 
+  prettydoc::html_pretty:
+    theme: tactile
+---
+
+
+
+## Academic Profile                                                
+#### Grand Valley State University                                            
+  * B.S. in Mathematics and Statistics (2015-2019)                          
+  * 3.6 GPA                                                                
+  * Pursuing M.S. in Biostatistics                                              
+  * Expected graduation April 2021                                              
+                                                                             
+#### Research                                                             
+  * Stirling Numbers for Sunflower Graphs (2018-2019)                   
+    + Poster Presentation at the Joint Math Meetings (2019)               
+    + Midwest Undergraduate Math Symposium (2019)                                 
+    + Funded by the Center for Undergraduate MAthematics Research (2020) 
+
+***********************************************************************************
+
+<div style= "float:right;position: relative; top: 180px;">
+![](SAS_certified.png){width=0.8in}
+</div>
+
+## Skills
+  
+  * Experienced in Tableau 
+  * Experienced in Excel (Microsoft Office)                                             
+  * Exposure to Python and Java     
+  * Good written and oral communicator
+  * Coding skills: 
+    + R 
+    + SAS (certified Associate Programmer) 
+    + LaTex
+    
+***********************************************************************************
+
+## Employment History 
+#### Spectrum Health
+  *  Biostatistics Intern - Office of Research and Development | June 2020 - Present
+    + Sas and R
+    
+#### The Right Place, Inc. 
+  * Graduate Assistant | September 2019 - March 2020
+    + Worked with RPI research team and the Brookings Institute to conduct an "Inclusive LEarning Lab" for the Grand Rapids Metropolitan Area.
+
+#### Center for Undergraduate Mathematics Research
+  * Stirling Number sofr Sunflower Graphs | August 2018 - May 2019
+    + A combinatorics and graph-theory based research project
+
+#### Grand Rapids Gymnastics
+  *  Front Desk | April 2018 - August 2019, June 2020 - Present
+    + Handle billing, registration, phone, customer service
+    
+***********************************************************************************
+
+## Projects
+  * Lake Michigan Meseum Center
+    + Analyzed survey data for the mueseum and made suggestions based on our findings.
+  * Major Company in Grand Rapids, MI
+    + Analyzed large dataset using R, created visuals in Tableau
+                                                                          
